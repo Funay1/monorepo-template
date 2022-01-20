@@ -1,0 +1,4 @@
+src/lambdas/*/.build/*
+src/lambdas/*/.webpack/*
+node_modules
+src/lambdas/*/node_modules
